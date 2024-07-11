@@ -1,2 +1,3 @@
 nginx
 eclipse-temurin:17.0.11_9-jdk
+centos:7
