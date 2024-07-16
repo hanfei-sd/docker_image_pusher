@@ -1,3 +1,4 @@
 nginx
 eclipse-temurin:17.0.11_9-jdk
 centos:7
+python:3.12-slim
