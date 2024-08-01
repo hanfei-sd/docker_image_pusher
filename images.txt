@@ -4,3 +4,4 @@ centos:7
 python:3.12-slim
 python:3.12
 shihd/gbase8a:1.0
+supermap/iserver
