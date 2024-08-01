@@ -5,3 +5,4 @@ python:3.12-slim
 python:3.12
 shihd/gbase8a:1.0
 supermap/iserver
+supermap/iserver:10.2.1
