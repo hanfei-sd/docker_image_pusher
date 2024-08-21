@@ -1,2 +1,1 @@
-hugegraph/hugegraph
-hugegraph/hubble
+hugegraph/loader
