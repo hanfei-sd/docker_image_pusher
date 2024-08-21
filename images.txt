@@ -1,9 +1,1 @@
-nginx
-eclipse-temurin:17.0.11_9-jdk
-centos:7
-python:3.12-slim
-python:3.12
-shihd/gbase8a:1.0
-supermap/iserver
-supermap/iserver:10.2.1
-nacos/nacos-server:v2.0.3
+hugegraph/hugegraph
