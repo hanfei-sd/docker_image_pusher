@@ -1,1 +1,1 @@
-maven
+joinsunsoft/docker.ui
