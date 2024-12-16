@@ -40,7 +40,11 @@ jobs:
         build-mount-path: '/var/lib/docker/'
         
     - name: Add docker-daemon
-      run: cat /etc/docker/daemon.json
+      run: |
+          mkdir -p /etc/docker
+          echo '{
+            "insecure-registries": ["piesat.tpddns.cn:2280"]
+          }' | sudo tee /etc/docker/daemon.json
 
     - name: Restart docker
       run: sudo service docker restart
