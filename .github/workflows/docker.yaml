@@ -38,6 +38,9 @@ jobs:
         # remove-android: 'true'
         # remove-codeql: 'true'
         build-mount-path: '/var/lib/docker/'
+        
+    - name: Add docker-daemon
+      run: sudo echo '{"insecure-registries":[$PIESAT_REGISTRY]}' > /etc/docker/daemon.json
 
     - name: Restart docker
       run: sudo service docker restart
