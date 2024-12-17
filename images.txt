@@ -1,1 +1,1 @@
---platform=linux/arm64 portainer/portainer-ce:2.25.0-alpine
+--platform=linux/arm/v7 portainer/portainer-ce:2.25.0-alpine
