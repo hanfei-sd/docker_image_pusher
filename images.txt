@@ -1,2 +1,2 @@
---platfrom=linux/arm64 jenkins/jenkins:jdk17
+--platform=linux/arm64 jenkins/jenkins:jdk17
 
