@@ -1,2 +1,2 @@
---platform=linux/arm64 jenkins/jenkins:jdk17
+apache/superset:4.1.1
 
