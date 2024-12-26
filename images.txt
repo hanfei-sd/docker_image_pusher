@@ -1,1 +1,1 @@
-lutinglt/superset-zh
+red5d/docker-autocompose:latest
