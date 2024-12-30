@@ -1,1 +1,1 @@
-red5d/docker-autocompose:latest
+--platform=linux/arm64 nickblah/postgis:14-postgis-3
