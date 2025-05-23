@@ -1,1 +1,1 @@
---platform=linux/arm64 nickblah/postgis:14-postgis-3
+node:22-alpine
